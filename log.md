@@ -38,9 +38,15 @@
 
 ### Day 7: July 10, 2021
 
-**Today's Progress:** Updated this log, cleaned up my GitHub account, worked on a CS project (Boredless Tourist).
+**Today's Progress:** Updated this log, cleaned up my GitHub account, and worked on a CS project (Boredless Tourist).
 
 **Thoughts:** I'm becoming more comfortable with GitHub readonly edits at this point, but I feel like I've barely scratched the surface of what it can do. I also spent quite a bit of time getting stuck on a step of the CS project, but I finally figured out how to make it work. That's always a nice feeling! I'm definitely more comfortable with Python than JavaScript, but hopefully the concepts will keep transferring well.  
+
+### Day 8: July 11, 2021
+
+**Today's Progress:** Created my first GitHub issue and worked on a CS project (Boredless Tourist).
+
+**Thoughts:** I was able to create an issue for a suggested feature for our Discord community bot today, which was exciting! I got to learn more about how that works, and now I want to go find other repos that have open issues that are good for beginners to work on. It could be fun! I also struggled with Python some more today, but I got it to do what I wanted it to do in the end. Functions calling other functions can get tricky, especially when scoped variables get involved...
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
