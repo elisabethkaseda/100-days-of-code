@@ -48,6 +48,24 @@
 
 **Thoughts:** I was able to create an issue for a suggested feature for our Discord community bot today, which was exciting! I got to learn more about how that works, and now I want to go find other repos that have open issues that are good for beginners to work on. It could be fun! I also struggled with Python some more today, but I got it to do what I wanted it to do in the end. Functions calling other functions can get tricky, especially when scoped variables get involved...
 
+### Day 9: July 12, 2021
+
+**Today's Progress:** Studied UX/UI practices and looked into portfolio projects. 
+
+**Thoughts:** There's so much to learn! I'm not spending as much time on this per day as I probably should be, but I still feel like there's way more to do in a day than can fit in one hour. Can't wait until vacation time when I can contribute much more time to this. 
+
+### Day 10: July 13, 2021
+
+**Today's Progress:** Reviewed CSS Grid and some other HTML/CSS topics.
+
+**Thoughts:** A tweet that went viral got me thinking about how important the basics are these days, when everyone is so eager to show off their knowledge of all the latest technologies. Basics are what I do best (I much prefer HTML/CSS to JavaScript), so I might as well make sure I'm REALLY good at the basics, right? I don't think I'll ever be able to beat people with JavaScript skills, but this and my passion for accessibility might possibly give me a leg up in a different way. I hope.
+
+### Day 11: July 14, 2021
+
+**Today's Progress:** Joined Slack for an open-source project, did more CSS review, and worked on a CS project (Boredless Tourist).
+
+**Thoughts:** I'm definitely feeling what I mentioned in day 10: the actual programming part of things is not easy for me! It's going to take a lot of practice. But going back to CSS feels like home. I'm hoping to use more of my design skills and CSS knowledge to help with an open-source project I found that has helped so many people. It'd be an honor to be able to contribute. I've gotta work hard so I can be useful! 
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
