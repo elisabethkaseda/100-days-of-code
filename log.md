@@ -66,6 +66,24 @@
 
 **Thoughts:** I'm definitely feeling what I mentioned in day 10: the actual programming part of things is not easy for me! It's going to take a lot of practice. But going back to CSS feels like home. I'm hoping to use more of my design skills and CSS knowledge to help with an open-source project I found that has helped so many people. It'd be an honor to be able to contribute. I've gotta work hard so I can be useful! 
 
+### Day 12: July 15, 2021
+
+**Today's Progress:** Reviewed CSS Grid and worked on web accessibility materials.
+
+**Thoughts:** With how much I feel out of my depths in *programming* programming, I'm starting to wonder if it wouldn't be possible to mostly just get really good at CSS and web accessibility and passable at JavaScript. I've definitely seen a fair amount of complaining that even senior devs don't get those right some of the time! I'll work on it, anyway, and see where it gets me. 
+
+### Day 13: July 16, 2021 
+
+**Today's Progress:** More web accessibility work and learning about the UX interview process.
+
+**Thoughts:** Not much to report today, to be honest. Just chugging along. It's been nice to have time to use my laptop at work, though.
+
+### Day 14: July 17, 2021
+
+**Today's Progress:** CSS review, web acessibility readings, and Command Line review.
+
+**Thoughts:** It was the day after my COVID-19 vaccine, so I was taking it easy. Just did some readings and reviews. Only a couple more days until summer vacation! Hoping to spend some time recovering from burnout and to really get to work on all of this coding stuff. 
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
