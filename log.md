@@ -80,9 +80,15 @@
 
 ### Day 14: July 17, 2021
 
-**Today's Progress:** CSS review, web acessibility readings, and Command Line review.
+**Today's Progress:** CSS review, web accessibility readings, and Command Line review.
 
 **Thoughts:** It was the day after my COVID-19 vaccine, so I was taking it easy. Just did some readings and reviews. Only a couple more days until summer vacation! Hoping to spend some time recovering from burnout and to really get to work on all of this coding stuff. 
+
+### Day 15: July 18, 2021
+
+**Today's Progress:** Web accessibility practice and ARIA excercises.
+
+**Thoughts:** I'm constantly surprised by how much there still is to learn. It's still awfully overwhelming sometimes... but I hope gathering all these resources will help me out, and that eventually I'll be able to work with these things without too much trouble. 
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
