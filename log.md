@@ -90,6 +90,18 @@
 
 **Thoughts:** I'm constantly surprised by how much there still is to learn. It's still awfully overwhelming sometimes... but I hope gathering all these resources will help me out, and that eventually I'll be able to work with these things without too much trouble. 
 
+### Day 16: July 19, 2021
+
+**Today's Progress:** Command Line and Git review, plus some design prep and research.
+
+**Thoughts:** I spent the day rather annoyed because I felt all fired up to code and learn in the morning, but had to go to work instead, where I have no regular computer access. I ended up doing some design readings and research, but it still felt like wasted motivation. Summer vacation soon! (I also ended up learning a bunch more about Command Line just because of a one-off joke Tweet that I saw.)
+
+### Day 17: July 20, 2021
+
+**Today's Progress:** More Command Line review, GitHub prodding, and design research. 
+
+**Thoughts:** Last day of school! Hoping I can use the next five and a half weeks to really make some good progress on this and other projects so that it's easier for me to keep it up once I go back to work in September. Still feeling a bit overwhelmed by how much there is to learn before I can do all the things I want to do, but as my mum always says, "How do you eat an elephant? One bite at a time."
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
