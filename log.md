@@ -102,6 +102,12 @@
 
 **Thoughts:** Last day of school! Hoping I can use the next five and a half weeks to really make some good progress on this and other projects so that it's easier for me to keep it up once I go back to work in September. Still feeling a bit overwhelmed by how much there is to learn before I can do all the things I want to do, but as my mum always says, "How do you eat an elephant? One bite at a time."
 
+### Day 18: July 21, 2021
+
+**Today's Progress:** Started a grand review of Ruby in preparation for learning Ruby on Rails.
+
+**Thoughts:** A little unrelated, but I made a big goof and made code edits directly to the master branch earlier. Ugh. That defeats the point of this project having us update every day to help with the GitHub activity, doesn't it? I did the cheaty thing of just deleting the old branch and making a new one. Hope that's okay. But now I'm wondering what happens if someone is working on a branch and changes are made to master? Is it possible to pull the updates from master to the branch without messing up the work in progress of the branch, and vice versa? Will have to do some research...
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
