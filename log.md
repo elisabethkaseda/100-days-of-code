@@ -120,6 +120,18 @@
 
 **Thoughts:** Today is the last day of my self-described "lazy days" of summer before I really get going on all the projects I have planned, so it's not terrible that I haven't done much, but... I also haven't done much. Definitely feeling burned out, and despite my wishes to practice, actually sitting down and doing it has been proving difficult (especially with the surrounding circumstances). It's the weekend next, and then hopefully I can really get to work next week!
 
+### Day 21: July 24, 2021
+
+**Today's Progress:** Git review and exploration of GitHub communities and projects.
+
+**Thoughts:** Spent a lot of time today working on these upcoming community projects and trying to figure out how everything will work. More time spent writing than coding, but it's necessary to have a good plan before you make good code, right? 
+
+### Day 22: July 25, 2021
+
+**Today's Progress:** GitHub project work and opening issues, plus further Ruby review.
+
+**Thoughts:** Made a bunch more progress through my Ruby review; hoping to get the beginning stuff finished by the end of the new week so I can move onto learning Ruby on Rails! I also spent several hours working on the GitHub project stuff and learning how to open issues (and creating some). I'm excited to see how this goes, and to get better at using all the features GitHub has to offer. 
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
