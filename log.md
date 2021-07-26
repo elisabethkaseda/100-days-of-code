@@ -132,6 +132,12 @@
 
 **Thoughts:** Made a bunch more progress through my Ruby review; hoping to get the beginning stuff finished by the end of the new week so I can move onto learning Ruby on Rails! I also spent several hours working on the GitHub project stuff and learning how to open issues (and creating some). I'm excited to see how this goes, and to get better at using all the features GitHub has to offer. 
 
+### Day 23: July 26, 2021
+
+**Today's Progress:** Ruby review, reading GitHub docs for confusing parts, and submitting a bunch of issues.
+
+**Thoughts:** If I'm not super good at GitHub by the time I'm done with this project, I will be incredibly disappointed. I feel like I learn new features every day. I just hope it's not taking away from my actual coding too much... Well, new day tomorrow! 
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
