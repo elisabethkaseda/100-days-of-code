@@ -138,6 +138,24 @@
 
 **Thoughts:** If I'm not super good at GitHub by the time I'm done with this project, I will be incredibly disappointed. I feel like I learn new features every day. I just hope it's not taking away from my actual coding too much... Well, new day tomorrow! 
 
+### Day 24: July 27, 2021
+
+**Today's Progress:** Learning more about the GitHub project features, discussions, etc.
+
+**Thoughts:** Not much progress today, sadly. I think I need more focused work time. 
+
+### Day 25: July 28, 2021
+
+**Today's Progress:** More Ruby review, figuring out GitHub features, and some CSS review.
+
+**Thoughts:** Tough day mentally and emotionally. Feeling like maybe I need to throw myself into my work more rather than spending time on people, because apparently only one of those is going to last in the long run, but who knows. Gave myself a bit of a break because I'm feeling like crap. Try again tomorrow. 
+
+### Day 26: July 29, 2021
+
+**Today's Progress:** Ruby reviews, HTML/CSS reviews, and a lot of work on GitHub communities/projects.
+
+**Thoughts:** Yeah, since having to work seems like the only long-term constant in my life, I'd better be putting a lot more effort into it. I still think I need more focused work time, but I put a lot of good time into things today. I started a personal GitHub Project kanban board for the rest of this 100 Days, made the start of a list of more actionable projects I want to work on, and started the prep work for some of those things. Hopefully breaking it down this way will help me to section out my time properly and actually make some visible progress. Gonna do my best! 
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
