@@ -156,6 +156,18 @@
 
 **Thoughts:** Yeah, since having to work seems like the only long-term constant in my life, I'd better be putting a lot more effort into it. I still think I need more focused work time, but I put a lot of good time into things today. I started a personal GitHub Project kanban board for the rest of this 100 Days, made the start of a list of more actionable projects I want to work on, and started the prep work for some of those things. Hopefully breaking it down this way will help me to section out my time properly and actually make some visible progress. Gonna do my best! 
 
+### Day 27: July 30, 2021
+
+**Today's Progress:** Ruby reviews, HTML/CSS reviews, moving my old blog to a subdomain, and adding a [README](https://github.com/elisabethkaseda/elisabethkaseda) to my profile.
+
+**Thoughts:** Just chugging along. Still so much to learn about how these things actually work. Yeesh. I got a lot of practice with looking up FTP stuff today while working on the website sub domain thing. Still learning how to push code to GitHub, as well. Hoping to actually get some of that done before we hit the 33 day mark (one-third done!) on this project. 
+
+### Day 28: July 31, 2021
+
+**Today's Progress:** Mostly bogged down in GitHub docs and researching UI info.
+
+**Thoughts:** Basically what I said there. I got some more CSS review done (and helped some other newbies with some of their code), but I mostly struggled with figuring out how things work more. Ugh. Even when I kind of know what I'm doing, I second-guess myself or feel like I'm probably just making stuff up. Is this (more) imposter syndrome? 
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
