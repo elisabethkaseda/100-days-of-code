@@ -168,6 +168,24 @@
 
 **Thoughts:** Basically what I said there. I got some more CSS review done (and helped some other newbies with some of their code), but I mostly struggled with figuring out how things work more. Ugh. Even when I kind of know what I'm doing, I second-guess myself or feel like I'm probably just making stuff up. Is this (more) imposter syndrome? 
 
+### Day 29: August 1, 2021
+
+**Today's Progress:** A bit of Ruby and some general GitHub community work.
+
+**Thoughts:** I have decided to make a goal to get a little green square every day in August, and to do it without using pull requests for these log updates. It's gonna be a bit tricky, I think, but I'll do my very best! Hoping to start working on some *real* projects tomorrow.
+
+### Day 30: August 2, 2021
+
+**Today's Progress:** Started a private repo for HTML/CSS practice, figured out how to add actual code to GitHub.
+
+**Thoughts:** A wise friend of mine keeps telling me, "Don't let perfect be the enemy of good," so I finally just sucked it up and started a private repo for general web coding practice. I'll probably make it public once it looks somewhat decent, but I'm embarassed to even have it seen right now... Still, it is *up*, and that is a huge step for me. Now it's time to backtrack through all the courses and units I've completed over this past year and largely forgotten... Practice, practice, practice! There are no shortcuts!
+
+### Day 31: August 3, 2021
+
+**Today's Progress:** Tried to remember how to layout pages with CSS.
+
+**Thoughts:** HOLY COW, I am out of practice. I'm glad I'm doing this website practice project, because working on it is showing me exactly how much stuff I don't remember from last year when I went hard on HTML and CSS. I've learned a lot of new tricks and stuff, but I definitely need more work on the basics. 
+
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
